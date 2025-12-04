@@ -1,1 +1,0 @@
-mongodb+srv://iamgokulgopan:iamgokulgopancr7@products.frgesz4.mongodb.net/?appName=products
